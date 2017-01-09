@@ -18,7 +18,7 @@ Consumer pause on 30s after receive message. It is for verification delivery mes
     <li>Run Java application BrokerLauncher.java </li>
     <li>Run Java application ProducerClient.java </li>
     <li>Run both ConsumerClients and you enjoy it :) </li>
-<ol>
+</ol>
 
 <h2>Technologies</h2>
 <ul>
