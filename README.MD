@@ -1,7 +1,7 @@
 <h1>JMS tutorial</h1>
 <div>
 Project is first familiarization with the JMS API(Java messaging system) in programming language Java.
-I choosed the library ActiveMQ for implementation the JMS API. Application is consist of a three small sub-programs
+I choosed the library ActiveMQ for implementation the JMS API. Application is consist of three small sub-programs
 simulation separate programs. One of them is mark as a producer and other are marks as consumers messages from  the producer.
 
 The producer read lines assigmented by user. If user type word "APPLE", all registered consumers are informs about it.
