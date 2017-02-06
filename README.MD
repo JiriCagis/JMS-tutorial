@@ -10,14 +10,14 @@ The consumer pause on 30s after receive  a message. It is for verification deliv
 
 <h2>How do you run it? </h2>
 <ol>
-    <li>First time you must download ActiveMQ from url: http://activemq.apache.org/download.html. </li>
-    <li>You unzip it in your favorite folder. (Example linux command: tar -zxvf activemq*.gz.tar) </li>
-    <li>You execute file bin/activemq, this file run the ActiveMQ server. </li>
-    <li>You ppen browser and you type url into adress line: http://localhost:8161/admin/ (Username and password are "admin") </li>
-    <li>You create topic in admin interface with name "FruitTopic" </li>
-    <li>You run Java application BrokerLauncher.java </li>
-    <li>You run Java application ProducerClient.java </li>
-    <li>Finall step, you run both ConsumerClients and you enjoy it :) </li>
+    <li>First time you must download ActiveMQ from <b> URL: http://activemq.apache.org/download.html. </b></li>
+    <li>Uzip it in your favorite folder. (Example linux command: <b> tar -zxvf activemq*.gz.tar </b>) </li>
+    <li>Execute file <b> bin/activemq </b> , this file run the ActiveMQ server. </li>
+    <li>Open a browser and you type url: <b> http://localhost:8161/admin/ </b> (Username and password are "admin") </li>
+    <li>Create topic in admin interface with name <b>"FruitTopic"</b> </li>
+    <li>Run Java application <b>BrokerLauncher.java</b></li>
+    <li>Run Java application <b>ProducerClient.java</b> </li>
+    <li>Finall step, you run both instance of class ConsumerClients and you enjoy it :) </li>
 </ol>
 
 <h2>Technologies</h2>
