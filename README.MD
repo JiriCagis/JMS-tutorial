@@ -7,6 +7,8 @@ simulation separate programs. One of them is mark as a producer and other are ma
 The producer read lines assigmented by user. If user type word "APPLE", all registered consumers are informs about it.
 The consumer pause on 30s after receive  a message. It is for verification delivery the messages if consumer happen busy.
 </div>
+<br>
+<br>
 
 <p align='center'><img src='jms_example.png' width='55%' title='Picture show how work the JMS API.'> </p>
 
