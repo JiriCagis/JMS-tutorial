@@ -8,6 +8,8 @@ The producer read lines assigmented by user. If user type word "APPLE", all regi
 The consumer pause on 30s after receive  a message. It is for verification delivery the messages if consumer happen busy.
 </div>
 
+<p align='center'><img src='jms_example.png' width='55%' title='Picture show how work the JMS API.'> </p>
+
 <h2>How do you run it? </h2>
 <ol>
     <li>First time you must download ActiveMQ from <b> URL: http://activemq.apache.org/download.html. </b></li>
